@@ -12,3 +12,4 @@ beautifulsoup4==4.12.2
 # Markdown (stable versions)
 markdown-it-py==2.2.0
 Pygments==2.15.1
+watchdog==2.1.9
