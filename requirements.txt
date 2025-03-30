@@ -1,8 +1,18 @@
-# Core (pre-built wheels)
+# Streamlit
 streamlit==1.28.0
-pandas==2.1.0; python_version < '3.12'
-pandas==2.1.3; python_version >= '3.12'  # Has pre-built wheels for Python 3.12
+
+# Core dependencies
+pandas==2.1.3
 numpy==1.26.0
 plotly==5.15.0
 
+# Web scraping
+beautifulsoup4==4.12.2
+requests==2.31.0
+
+# Markdown & syntax highlighting
+markdown-it-py==2.2.0
+Pygments==2.15.1
+
+# Watchdog fix for Streamlit Cloud
 watchdog==2.1.9
