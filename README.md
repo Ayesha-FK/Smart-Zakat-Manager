@@ -19,7 +19,7 @@ A comprehensive Zakat calculation and Islamic wealth management application feat
    git clone https://github.com/Ayesha-FK/Smart-Zakat-Manager.git
    
 ## Install Dependencies
-2.```bash
+
    pip install -r requirements.txt
 
 ## Launch App
