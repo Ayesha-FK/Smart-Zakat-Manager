@@ -55,3 +55,6 @@ Install dependencies:
 | Streamlit Share | Cloud hosting                    |
 | GitHub          | Version control & CI/CD          |
 
+## 🌍 Live Deployed  
+Try the app here: [Smart Zakat Pro](https://l4rw6wv8ynqqvnoebavce9.streamlit.app/)
+
