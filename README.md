@@ -1,7 +1,9 @@
 # Smart-Zakat-Manager - Islamic Wealth Manager
 
 **Course:** Course Name: AF3005 – Programming for Finance
+
 **Instructor:** Dr. Usama Arshad
+
 **Developer:** Ayesha fazal
 
 ## Overview
