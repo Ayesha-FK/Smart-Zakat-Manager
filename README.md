@@ -19,7 +19,8 @@ A comprehensive Zakat calculation and Islamic wealth management application feat
    git clone https://github.com/Ayesha-FK/Smart-Zakat-Manager.git
    
 ## Install Dependencies
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 ## Launch App
 streamlit run app.py
@@ -35,11 +36,13 @@ Install dependencies:
 | NumPy           | Numerical computations           | 1.26.0  |
 
 ### 🌐 Frontend
+| Technology       | Purpose                          | Version |
 |------------------|----------------------------------|---------|
 | Streamlit       | Web application framework        | 1.28.0  |
 | Plotly Express  | Interactive visualizations       | 5.15.0  |
 
 ### 🔌 APIs & Services
+| Service         | Purpose                          |
 |------------------|----------------------------------|
 | GoldAPI.io      | Real-time metal price data       |
 | BeautifulSoup   | Web scraping (fallback)          |
